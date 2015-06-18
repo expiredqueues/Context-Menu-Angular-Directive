@@ -1,2 +1,13 @@
-Context-Menu-Angular-Directive
-==============================
+Custom Context Menu
+==========================
+
+##Version 1.0
+This is a simple custom context menu, for AngularJS applications.
+
+##Demo
+  - [http://expiredqueues.github.io/Context-Menu-Angular-Directive/app/](http://expiredqueues.github.io/Context-Menu-Angular-Directive/app/)
+
+##How to Use:
+  - Read blog post: [Link](https://www.expiredqueues.com/custom-context-menu-directive/)
+
+Any questions, queries - you can reach me [@theadriannoel](http://expiredqueues.github.io/Context-Menu-Angular-Directive/app/#/)
